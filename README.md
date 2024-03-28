@@ -5,20 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 3.3.0
 
 * System dependencies
 
-* Configuration
+* clone repo and install all dependencies
 
-* Database creation
+* Database creation (used SQLite)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*  to run the test use rspec
